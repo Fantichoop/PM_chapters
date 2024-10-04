@@ -1,4 +1,4 @@
-# PM_chapters
+# PM_chapters - Садыков Руслан, группа 193
 
 ## chapter 1
 1 - https://wokwi.com/projects/408620509774487553
