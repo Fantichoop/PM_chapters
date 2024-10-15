@@ -17,6 +17,17 @@
 
 7 - https://wokwi.com/projects/409245759475730433
 
+8 - 
+
+9 - 
+
+10 - 
+
+11 - 
+
+12 - 
+
+13 - 
 ## chapter 2
 1 - https://wokwi.com/projects/409890079393601537
 
